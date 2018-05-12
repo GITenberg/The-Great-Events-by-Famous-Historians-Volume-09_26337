@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: This volume covers A.D. 1517-1557
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26337#The-Great-Events-by-Famous-Historians-Volume-09
 gutenberg_issued: '2008-08-17'
 gutenberg_type: Text
 identifiers:
